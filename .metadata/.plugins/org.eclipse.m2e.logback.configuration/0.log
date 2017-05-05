@@ -107,3 +107,207 @@
 2017-05-05 09:02:15,213 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
 2017-05-05 09:02:15,270 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-05-05 09:02:15,288 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:12:18,047 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:12:18,048 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:12:18,049 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:12:18,059 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:12:19,153 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:12:19,153 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:12:19,176 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:12:19,192 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:13:28,627 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:13:28,627 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:13:28,628 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:13:28,634 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:15:48,954 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:15:48,955 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:15:48,975 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:15:48,975 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:17:06,219 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:17:06,219 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:17:06,219 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:17:06,235 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:46:36,624 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:46:36,624 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:46:36,639 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:46:36,639 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 09:52:38,724 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:52:38,724 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 09:52:38,724 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 09:52:38,739 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:01:18,838 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:01:18,838 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:01:18,846 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:01:18,850 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:06:12,963 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:06:12,963 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:06:12,967 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:06:12,974 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:07:51,686 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:07:51,702 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:07:51,722 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:07:51,730 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:08:13,899 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:08:13,899 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:08:13,899 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:08:13,919 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:24:43,894 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:24:43,909 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:24:43,932 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:24:43,932 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:30:14,526 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:30:14,526 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:30:14,526 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:30:14,526 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:31:19,952 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:31:19,967 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:31:19,983 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:31:19,983 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:31:45,578 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:31:45,578 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:31:45,578 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:31:45,594 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:35:47,989 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:35:47,989 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:35:48,005 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:35:48,027 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:40:16,875 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:40:16,875 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:40:16,875 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:40:16,891 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:41:13,873 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:41:13,895 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:41:13,911 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:41:13,927 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:42:33,004 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:42:33,004 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:42:33,004 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:42:33,019 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:50:50,017 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:50:50,033 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:50:50,055 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:50:50,070 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:51:50,477 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:51:50,477 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:51:50,477 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:51:50,496 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:53:31,691 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:53:31,706 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:53:31,722 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:53:31,738 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:54:21,775 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:54:21,776 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:54:21,777 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:54:21,784 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 10:56:01,009 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:56:01,040 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 10:56:01,056 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 10:56:01,071 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:07:49,333 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:07:49,334 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:07:49,336 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:07:49,336 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:12:59,827 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:12:59,827 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:12:59,827 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:12:59,842 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:13:12,244 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:13:12,244 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:13:12,244 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:13:12,244 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:20:25,926 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:20:25,942 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:20:25,964 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:20:25,964 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:20:41,926 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:20:41,926 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:20:41,926 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:20:41,942 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:20:44,196 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:20:44,212 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:20:44,228 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:20:44,243 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:22:19,585 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:22:19,585 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:22:19,585 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:22:19,600 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:22:33,158 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:22:33,158 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:22:33,174 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:22:33,189 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:24:02,982 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:24:02,983 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:24:02,983 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:24:02,983 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:25:31,253 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:25:31,268 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:25:31,284 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:25:31,284 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:26:22,556 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:26:22,556 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:26:22,556 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:26:22,571 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:26:35,046 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:26:35,061 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:26:35,061 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:26:35,077 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:28:29,582 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:28:29,582 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:28:29,582 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:28:29,598 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:28:48,836 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:28:48,851 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:28:48,867 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:28:48,867 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:30:32,421 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:30:32,421 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:30:32,423 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:30:32,424 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:31:44,086 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:31:44,086 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:31:44,102 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:31:44,102 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:31:50,750 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:31:50,751 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:31:50,754 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:31:50,755 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:32:10,057 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:32:10,057 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:32:10,073 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:32:10,073 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:32:23,178 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:32:23,178 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:32:23,178 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:32:23,178 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:33:09,881 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:33:09,897 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:33:09,912 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:33:09,912 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:39:42,632 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:39:42,632 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:39:42,632 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:39:42,632 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:40:53,861 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:40:53,876 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:40:53,892 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:40:53,908 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:41:28,806 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:41:28,806 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:41:28,806 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:41:28,838 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:41:58,441 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:41:58,441 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:41:58,457 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:41:58,476 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:46:42,508 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:46:42,508 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:46:42,511 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:46:42,522 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:47:45,118 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:47:45,119 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:47:45,133 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:47:45,143 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources
+2017-05-05 12:50:16,120 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:50:16,120 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\main\resources
+2017-05-05 12:50:16,120 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:50:16,136 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Isaura\Documents\App-Engine-and-Internationalization-with-Java\Marven\src\test\resources

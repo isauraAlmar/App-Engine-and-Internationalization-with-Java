@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="com.exemple.HelloInfo" %>
+<%@ page import="com.language.LanguageInfo" %>
 <!-- [START_EXCLUDE] -->
 <%--
   ~ Copyright (c) 2016 Google Inc. All Rights Reserved.
@@ -27,13 +28,18 @@
 
     <h1> Title </h1>
     
-    <button >USA</button>
-    <button >Denmark</button>
-	<button >Uk</button>
-	<button >China</button>
-	<button >France</button>
+    <form acction =LanguageInfo.Select_Language >
+    	<button type="submit" value="en_US">USA</button>
+    </form>
+    
+   
+  	<button <%= LanguageInfo.Select_Language("en_US") %>>US </button>
+    <button <%= LanguageInfo.Select_Language("dk_DK") %>>Denmark </button>
+	<button <%= LanguageInfo.Select_Language("en_UK") %> >Uk</button>
+	<button <%= LanguageInfo.Select_Language("cn_CN") %>>China</button>
+	<button <%= LanguageInfo.Select_Language("fr_FR") %>>France</button>
 	
- <p>This is <%= HelloInfo.getInfo() %>.</p>
+
  
  <table>
   <tr>

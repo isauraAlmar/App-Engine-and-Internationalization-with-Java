@@ -347,3 +347,20 @@ org.eclipse.equinox.p2.core.ProvisionException: No repository found at https://d
 !MESSAGE Conflicts with running server "App Engine Standard at localhost"
 !SUBENTRY 1 com.google.cloud.tools.eclipse.appengine.localserver 4 0 2017-05-04 12:53:56.762
 !MESSAGE server port: 8080
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-05 09:17:05.533
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-05 09:17:05.564
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-05 09:17:05.680
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-05 09:17:05.701
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY com.google.cloud.tools.eclipse.appengine.localserver 4 0 2017-05-05 12:47:08.489
+!MESSAGE Conflicts with running server "App Engine Standard at localhost"
+!SUBENTRY 1 com.google.cloud.tools.eclipse.appengine.localserver 4 0 2017-05-05 12:47:08.489
+!MESSAGE server port: 8080
