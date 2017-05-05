@@ -24,19 +24,45 @@
   <title>Hello App Engine Standard</title>
 </head>
 <body>
-    <h1>Hello App Engine -- Standard!</h1>
 
-  <p>This is <%= HelloInfo.getInfo() %>.</p>
-  <table>
-    <tr>
+    <h1> Title </h1>
+    
+    <button >USA</button>
+    <button >Denmark</button>
+	<button >Uk</button>
+	<button >China</button>
+	<button >France</button>
+	
+ <p>This is <%= HelloInfo.getInfo() %>.</p>
+ 
+ <table>
+  <tr>
+    <th rowspan="4">Video Image</th>
+    <td>Title:<%= HelloInfo.getInfo() %></td>
+  </tr>
+  <tr>
+    <td>Date:<%= HelloInfo.getInfo() %></td>
+  </tr>
+  <tr>
+    <td>Time:<%= HelloInfo.getInfo() %></td>
+  </tr>
+  <tr>
+    <td>Country:<%= HelloInfo.getInfo() %></td>
+  </tr>
+  
+</table>
+
+ <!--    <tr>
       <td colspan="2" style="font-weight:bold;">Available Servlets:</td>
     </tr>
     <tr>
-      <td><a href='/hello'>The servlet</a></td>
+      <td><a href='/hello'>Qui Soc?</a></td>
     </tr>
+    
   </table>
-  <button >Hello</button>
-  z
+  
+  <button >Hello</button>--> 
+  
 
 </body>
 </html>
